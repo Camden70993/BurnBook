@@ -87,7 +87,7 @@ export const DesktopLogin = () => {
                         <img
                           className="frame-39"
                           alt="Frame"
-                          src="/img/frame-29.svg"
+                          src="./img/frame-29.svg"
                         />
                       </div>
                     </div>
@@ -118,7 +118,7 @@ export const DesktopLogin = () => {
                           <img
                             className="group-2"
                             alt="Group"
-                            src="/img/group-1.png"
+                            src="./img/group-1.png"
                           />
                         </div>
                       </div>
@@ -171,7 +171,7 @@ export const DesktopLogin = () => {
                     <img
                       className="frame-42"
                       alt="Frame"
-                      src="/img/frame-30-2.svg"
+                      src="./img/frame-30-2.svg"
                     />
                   </div>
 
@@ -183,7 +183,7 @@ export const DesktopLogin = () => {
                     <img
                       className="frame-44"
                       alt="Frame"
-                      src="/img/frame-31.svg"
+                      src="./img/frame-31.svg"
                     />
                   </div>
 
